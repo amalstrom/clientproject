@@ -1,4 +1,6 @@
 // Example API Call: https://www.googleapis.com/civicinfo/v2/representatives?address=10009&includeOffices=true&key=AIzaSyAdeeaGy6m0RxJ0Jx0zq8Q6fzVv7GBNZcI
+// API Docs: https://developers.google.com/civic-information/docs/v2/representatives
+// Example Project: https://google-civic.glitch.me/
 
 let api_url = "https://www.googleapis.com/civicinfo/v2/representatives";
 let zip_code = "";
